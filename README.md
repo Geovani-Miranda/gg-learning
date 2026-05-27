@@ -1,2 +1,2 @@
-# gg-learning
-Projetos para estudos e testes
+# gg-projects
+
